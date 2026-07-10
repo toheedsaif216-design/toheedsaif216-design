@@ -44,7 +44,7 @@
   <img src="https://streak-stats.demolab.com?user=toheedsaif216-design&theme=tokyonight&hide_border=true" alt="Toheed's Streak" />
 </p>
 
-> Note: the GitHub stats/top-languages cards from `github-readme-stats.vercel.app` are currently unreliable (the shared public instance keeps going down). The streak card above uses a more stable alternative service.
+
 
 ---
 
