@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Toheed 👋</h1>
 
-<h3 align="center">Front-End Developer | BSCS Student @ Virtual University of Pakistan</h3>
+<h3 align="center">Front-End Developer | BSCS Student at Virtual University of Pakistan</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=Building+clean+%26+responsive+web+experiences;Learning+JavaScript+%26+React+every+day;Open+to+Front-End+Developer+roles+%26+internships" alt="Typing SVG" />
@@ -41,13 +41,10 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=toheedsaif216-design&show_icons=true&theme=tokyonight&hide_border=true" alt="Toheed's GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=toheedsaif216-design&theme=tokyonight&hide_border=true" alt="Toheed's Streak" width="48%" />
+  <img src="https://streak-stats.demolab.com?user=toheedsaif216-design&theme=tokyonight&hide_border=true" alt="Toheed's Streak" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=toheedsaif216-design&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
+> Note: the GitHub stats/top-languages cards from `github-readme-stats.vercel.app` are currently unreliable (the shared public instance keeps going down). The streak card above uses a more stable alternative service.
 
 ---
 
